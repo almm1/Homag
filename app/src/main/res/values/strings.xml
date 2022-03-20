@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HOMAG</string>
+    <string name="order_parts">Заказывайте запасные части не отходя от станка</string>
+    <string name="if_you_resgistred">Если вы зарегестрированы на HOMAG RUSSLAND, используйте ваши логин и пароль для входа</string>
+    <string name="sign_in">Вход</string>
+    <string name="or">или</string>
+    <string name="registration">Регистрация</string>
+    <string name="fio">Ф. И. О.</string>
+    <string name="name_surname">Фамилия Имя Отчество</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="dd_mm_yyyy">дд.мм.гггг</string>
+    <string name="phone">Телефон</string>
+    <string name="placeholder_phone">+7 (900) 000–00–00</string>
+    <string name="email">Электронная почта</string>
+    <string name="your_company">Ваша компания</string>
+    <string name="name_company">Наименование компании</string>
+    <string name="placeholder_service_number">1234567890</string>
+    <string name="service_number">Сервисный номер</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="agree_text">Подтверждаю корректность введеных данных и даю согласие на обработку моих персональных данных</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="gender">Пол</string>
+    <string name="log_in">Войти</string>
+    <string name="homag"> HOMAG RUSSLAND</string>
+    <string name="ok">OK</string>
+    <string name="back">Назад</string>
+    <string name="remind_password">Напомнить пароль</string>
+</resources>
